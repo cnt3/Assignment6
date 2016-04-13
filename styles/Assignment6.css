@@ -1,0 +1,19 @@
+body {background-color: #ffdd99;}
+
+#footer {text-align: center; font-style: italic;}
+
+#header {text-align: center;}
+
+section.Section1 {background-color:#ccccff; visibility: hidden;}
+
+#addCustomer {position: absolute; width: 600px; }
+
+#changeShippingInfo {position: absolute; width: 600px; }
+
+#deleteCustomer {position: absolute; width: 600px; }
+
+section.Section2 {background-color: #c6ecc6; visibility: hidden;}
+
+section.Section3 {background-color: #b3ffff; visibility: hidden; position: absolute; width: 600px;}
+
+.requirements {font-style: italic; color: red;}
